@@ -12,5 +12,5 @@
 * **Next Steps**: *Create the UI sketch for the main page (post list) and the "Add New Experience" form.*
 
 ### Day 1: September 1, 2025 update
-* **Progress**: *Created the UI sketch for the main page and menu bar on Excalidraw Website.
-* **Next Steps:** Begin Phase 2: Set up the React project using Vite and create the static `<Header>` component.
+* **Progress**: *Created the UI sketch for the main page and menu bar on Excalidraw Website.*
+* **Next Steps:** *Begin Phase 2: Set up the React project using Vite and create the static `<Header>` component.*
